@@ -8,6 +8,7 @@
 
 Some of Gutenberg blocks created by me - https://froosty.tech/dynamic-rect-js-gutenberg-blocks-created-by-me/
 
+------------------- LINKS --------------------
 
 My Project - https://froosty.tech/projects
 
