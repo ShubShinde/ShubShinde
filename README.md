@@ -4,4 +4,11 @@
 - 💞️ I’m looking to create awesome plugins using Wordpress and React ...
 - 📫 Reach me {email : 'heyimshub@gmail.com' , mobile: '7447851524' }
 
-Currently working as WordPress Plugin & Gutenberg Blocks developer at Shades Of Web.
+--- Currently working as WordPress Plugin & Gutenberg Blocks developer at Shades Of Web ---
+
+Some of Gutenberg blocks created by me - https://froosty.tech/dynamic-rect-js-gutenberg-blocks-created-by-me/
+
+
+My Project - https://froosty.tech/projects
+More About Me - https://froosty.tech/about/
+Youtube Channel - https://www.youtube.com/channel/UC5r-zX2s77Wd7H_MrRKTfKg
