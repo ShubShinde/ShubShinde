@@ -11,6 +11,9 @@
 ------------------- LINKS --------------------
 
 Some of Gutenberg blocks created by me - https://froosty.tech/dynamic-rect-js-gutenberg-blocks-created-by-me/
+
 My Project - https://froosty.tech/projects
+
 More About Me - https://froosty.tech/about/
+
 Youtube Channel - https://www.youtube.com/channel/UC5r-zX2s77Wd7H_MrRKTfKg
