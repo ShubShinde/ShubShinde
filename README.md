@@ -5,10 +5,6 @@
 - 📫 Reach me {email : 'heyimshub@gmail.com' , mobile: '7447851524' }
 
 
---- Currently working as WordPress Plugin & Gutenberg Blocks developer at Shades Of Web ---
-
-
-
 ------------------- LINKS --------------------
 
 Some of Gutenberg blocks created by me - https://froosty.tech/dynamic-rect-js-gutenberg-blocks-created-by-me/
