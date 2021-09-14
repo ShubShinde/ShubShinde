@@ -9,9 +9,12 @@
 
 ## My Wordpress Plugins : 
 
-<div style="border: 1px solid #444;">
+<p>
   <a href="https://wordpress.org/plugins/brandinizer/">
-    <img src="https://ps.w.org/brandinizer/assets/icon-256x256.png?rev=2560894" width="30" title="Brandinizer"> <big style="margin-top: -50px;">Brandinizer – Custom Dashboard Branding</big>
+    <img src="https://ps.w.org/brandinizer/assets/icon-256x256.png?rev=2560894" width="40" title="Brandinizer"> <big>Brandinizer – Custom Dashboard Branding</big>
   </a>
-</div>
+</p>
 
+| col 1      | col 2      |
+|------------|-------------|
+| <img src="https://media.wired.com/photos/5926db217034dc5f91becd6b/master/w_582,c_limit/so-logo-s.jpg" width="250"> | <img src="https://mk0jobadderjftub56m0.kinstacdn.com/wp-content/uploads/stackoverflow.com-300.jpg" width="250"> |
