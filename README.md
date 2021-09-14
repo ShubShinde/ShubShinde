@@ -10,6 +10,8 @@
 ## My Wordpress Plugins : 
 
 <div style="border: 1px solid #444;">
-  <img src="https://ps.w.org/brandinizer/assets/icon-256x256.png?rev=2560894" width="30" title="Logo"> <h3>Brandinizer</h3>
+  <a href="">
+    <img src="https://ps.w.org/brandinizer/assets/icon-256x256.png?rev=2560894" width="30" title="Logo"> <big><b>Brandinizer</b></big>
+  </a>
 </div>
 
