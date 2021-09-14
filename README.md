@@ -9,7 +9,7 @@
 
 ## My Wordpress Plugins : 
 
-<p>
-  1. <img src="https://ps.w.org/brandinizer/assets/icon-256x256.png?rev=2560894" width="50" title="Logo"> <b>Brandinizer</b>
-</p>
+<div style="border: 1px solid #444;">
+  <img src="https://ps.w.org/brandinizer/assets/icon-256x256.png?rev=2560894" width="50" title="Logo"> <b>Brandinizer</b>
+</div>
 
