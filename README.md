@@ -10,7 +10,7 @@
 ## My Wordpress Plugins : 
 
 <div style="border: 1px solid #444;">
-  <a href="">
+  <a href="https://wordpress.org/plugins/brandinizer/">
     <img src="https://ps.w.org/brandinizer/assets/icon-256x256.png?rev=2560894" width="30" title="Brandinizer"> <big>Brandinizer – Custom Dashboard Branding</big>
   </a>
 </div>
