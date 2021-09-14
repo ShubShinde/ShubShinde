@@ -8,7 +8,7 @@
 ------------------- LINKS --------------------
 
 ## My Wordpress Plugins : 
-1. [Brandinizer – Custom Dashboard Branding](https://wordpress.org/plugins/brandinizer/)
+1. ![Brandinizer](https://ps.w.org/brandinizer/assets/icon-256x256.png?rev=2560894) [Brandinizer – Custom Dashboard Branding](https://wordpress.org/plugins/brandinizer/)
 2. [Site Structure Visualizer](https://wordpress.org/plugins/site-structure-visualizer/)
 
 Youtube Channel - https://www.youtube.com/channel/UC5r-zX2s77Wd7H_MrRKTfKg
