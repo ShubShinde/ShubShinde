@@ -11,6 +11,6 @@
 
 <p align="center">
   1. <b>Brandinizer</b>
-  <img src="https://ps.w.org/brandinizer/assets/icon-256x256.png?rev=2560894" width="350" title="hover text">
+  <img src="https://ps.w.org/brandinizer/assets/icon-256x256.png?rev=2560894" width="50" title="Logo">
 </p>
 
