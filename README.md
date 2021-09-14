@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React.js, ReactNative and Exploring Headless CMS, Gatsby & GraphQL
 - 💞️ I’m looking to create awesome plugins using Wordpress and React ...
 - 📫 Reach me {email : 'heyimshub@gmail.com' , mobile: '7447851524' }
-
+- 👀 Wordpress Profile - https://profiles.wordpress.org/shubshinde/
 
 ------------------- LINKS --------------------
 
