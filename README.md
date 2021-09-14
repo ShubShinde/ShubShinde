@@ -14,4 +14,4 @@
 | <a style="color: white;" href="https://wordpress.org/plugins/brandinizer/">Brandinizer</a> | <a style="color: white;" href="https://wordpress.org/plugins/site-structure-visualizer/">Site Structure Visualizer</a> |
 |-------------|-------------|
 | <img src="https://ps.w.org/brandinizer/assets/icon-256x256.png?rev=2560894" width="150"> | <img src="https://ps.w.org/site-structure-visualizer/assets/icon-256x256.png?rev=2588234" width="150"> |
-| <a style="color: white;" href="https://wordpress.org/plugins/brandinizer/">Install</a> | <a style="color: white;" href="https://wordpress.org/plugins/site-structure-visualizer/">Install</a> |
+| <a align="center" style="color: white;" href="https://wordpress.org/plugins/brandinizer/">Install</a> | <a style="color: white;" href="https://wordpress.org/plugins/site-structure-visualizer/">Install</a> |
