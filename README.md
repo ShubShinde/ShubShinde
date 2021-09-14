@@ -13,5 +13,5 @@
 
 | Brandinizer | Site Structure Visualizer |
 |-------------|-------------|
-| <img src="https://ps.w.org/brandinizer/assets/icon-256x256.png?rev=2560894" width="150"> | <img src="https://ps.w.org/site-structure-visualizer/assets/icon-256x256.png?rev=2588234" width="150"> |
+| <img src="https://ps.w.org/brandinizer/assets/icon-256x256.png?rev=2560894" width="150"> | <img src="https://i.imgur.com/kb8eYDm.png" width="150"> |
 | <p align="center" ><a style="color: white;" href="https://wordpress.org/plugins/brandinizer/">Install</a> </p> | <p align="center" ><a style="color: white;" href="https://wordpress.org/plugins/site-structure-visualizer/">Install</a></p> |
