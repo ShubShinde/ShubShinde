@@ -6,7 +6,7 @@
 - ⭐ Wordpress Profile - https://profiles.wordpress.org/shubshinde/
 - 🌃 Wordpress Developer at Brainstorm Force
 - 💻 Astra Theme Devlopement
-- 🎧 Desi Rap Culture
+- 🎧 Rap Culture
 - 🌀 Naruto Fan
 
 
