@@ -6,8 +6,8 @@
 - 📫 Reach me {email : 'heyimshub@gmail.com' , mobile: '7447851524' }
 - ⭐ Wordpress Profile - https://profiles.wordpress.org/shubshinde/
 - 🌃 Wordpress Developer at Brainstorm Force
-- 💻 Astra Theme Devlopement
-- 🎧 Rap Culture
+- 💻 Astra Theme Developer
+- 🎧 Desi Rap Songs
 - 🌀 Naruto Fan
 
 <br>
