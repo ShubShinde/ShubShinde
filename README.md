@@ -29,7 +29,7 @@
 
 <br>
 
-## Recent Activities : 
+## My Recent Activities : 
 
 <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/5de7c0981d560f0001d69f95/0x0.png" width="70" title="Astra"> Developing new features for (#1) Astra Theme at BrainstormForce
 
