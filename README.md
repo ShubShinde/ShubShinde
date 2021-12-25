@@ -1,5 +1,5 @@
 
-- 👋 Hi, Shubham Shinde here.
+- 👋 Hi, Shubham here.
 - 👀 I’m interested in Wordpress & React.js
 - 💞️ I love to create awesome WordPress Plugins & React Apps.
 - 🌱 Exploring React.js, ReactNative and Exploring Headless CMS, Gatsby & GraphQL.
