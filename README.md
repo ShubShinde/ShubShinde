@@ -22,10 +22,10 @@
 
 ##  My Wordpress Plugins : 
 
-| Brandinizer | Site Structure Visualizer |
-|-------------|-------------|
-| <img src="https://ps.w.org/brandinizer/assets/icon-256x256.png?rev=2560894" width="150"> | <img src="https://i.imgur.com/kb8eYDm.png" width="150"> |
-| <p align="center" ><a style="color: white;" href="https://wordpress.org/plugins/brandinizer/">Install</a> </p> | <p align="center" ><a style="color: white;" href="https://wordpress.org/plugins/site-structure-visualizer/">Install</a></p> |
+| Brandinizer | Site Structure Visualizer | LogDog - Debug |
+|-------------|-------------|-------------|
+| <center><img src="https://ps.w.org/brandinizer/assets/icon-256x256.png?rev=2560894" width="150"></center> | <center><img src="https://i.imgur.com/kb8eYDm.png" width="150"></center> | <center><img src="https://i.imgur.com/lK38qkX.png" align="center" width="110"></center> |
+| <p align="center" ><a style="color: white;" href="https://wordpress.org/plugins/brandinizer/">Install</a> </p> | <p align="center" ><a style="color: white;" href="https://wordpress.org/plugins/site-structure-visualizer/">Install</a></p> | Under Development.. |
 
 <br>
 
