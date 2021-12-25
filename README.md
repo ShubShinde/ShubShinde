@@ -2,7 +2,7 @@
 - 👋 Hi, Shubham Shinde here.
 - 👀 I’m interested in Wordpress & React.js
 - 💞️ I love to create awesome WordPress Plugins & React Apps.
-- 🌱 I’m currently learning React.js, ReactNative and Exploring Headless CMS, Gatsby & GraphQL.
+- 🌱 Exploring React.js, ReactNative and Exploring Headless CMS, Gatsby & GraphQL.
 - 📫 Reach me {email : 'heyimshub@gmail.com' , mobile: '7447851524' }
 - ⭐ Wordpress Profile - https://profiles.wordpress.org/shubshinde/
 - 🌃 Wordpress Developer at Brainstorm Force
