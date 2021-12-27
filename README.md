@@ -39,7 +39,7 @@
 
 <br>
 
-<img src="http://www.wpstuffs.com/wp-content/uploads/2013/02/wordpress-plugins.png" width="70" title="WordPress Plugins"> WordPress Themes Developed <b>(20)</b>
+<img src="http://www.wpstuffs.com/wp-content/uploads/2013/02/wordpress-plugins.png" width="70" title="WordPress Plugins"> WordPress Plugins Developed <b>(20)</b>
 
 <br>
 
