@@ -43,4 +43,4 @@
 
 <br>
 
-<img src="https://icons-for-free.com/iconfiles/png/512/browser+design+graphic+responsive+website+icon-1320165752320239858.png" width="70" title="WordPress Themes"> WordPress Themes Developed  <b>(5)</b>
+<img src="https://icons-for-free.com/iconfiles/png/512/browser+design+graphic+responsive+website+icon-1320165752320239858.png" width="70" title="WordPress Themes"> WordPress Themes Developed  <b>(3)</b>
