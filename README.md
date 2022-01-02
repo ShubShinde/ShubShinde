@@ -31,7 +31,7 @@
 
 ## My Recent Activities : 
 
-<img src="https://raw.githubusercontent.com/shubshinde/assets-storage/main/Dynamite-Logo.png" width="70" title="Astra"> Working On Developing New Gutenberg Dyamic Blocks Library for supporting Headless CMS. (Dynamite Blocks).
+<img src="https://raw.githubusercontent.com/shubshinde/assets-storage/main/Dynamite-Logo.png" width="70" title="Astra"> Working On Developing New Gutenberg Dyamic Blocks Library (Dynamite Blocks) for supporting Headless CMS. 
 
 <br>
 
