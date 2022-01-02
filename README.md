@@ -25,11 +25,15 @@
 | Brandinizer | Site Structure Visualizer | LogDog - Debugger | Dynamite Blocks |
 |-------------|-------------|-------------| -------------|
 | <p align="center"><img src="https://ps.w.org/brandinizer/assets/icon-256x256.png?rev=2560894" width="150"></p> | <p align="center"><img src="https://i.imgur.com/kb8eYDm.png" width="150"></p> | <p align="center"><img src="https://i.imgur.com/lK38qkX.png" align="center" width="110"></p> | <p align="center"><img src="https://raw.githubusercontent.com/shubshinde/assets-storage/main/Dynamite-Logo.png" align="center" width="110"></p> |
-| <p align="center" ><a style="color: white;" href="https://wordpress.org/plugins/brandinizer/">Install</a> </p> | <p align="center" ><a style="color: white;" href="https://wordpress.org/plugins/site-structure-visualizer/">Install</a></p> | <p align="center" ><a style="color: white;" href="https://github.com/shubshinde/logdog-wp">Install</a></p> | 
+| <p align="center" ><a style="color: white;" href="https://wordpress.org/plugins/brandinizer/">Install</a> </p> | <p align="center" ><a style="color: white;" href="https://wordpress.org/plugins/site-structure-visualizer/">Install</a></p> | <p align="center" ><a style="color: white;" href="https://github.com/shubshinde/logdog-wp">Install</a></p> |  <p align="center" ><a style="color: white;" href="https://github.com/shubshinde/logdog-wp">View</a> <br>( Under Development ) </p> |
 
 <br>
 
 ## My Recent Activities : 
+
+<img src="https://raw.githubusercontent.com/shubshinde/assets-storage/main/Dynamite-Logo.png" width="70" title="Astra"> Working On Developing New Gutenberg Dyamic Blocks Library for supporting Headless CMS. (Dynamite Blocks).
+
+<br>
 
 <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/5de7c0981d560f0001d69f95/0x0.png" width="70" title="Astra"> Developing new features for (#1) Astra Theme at BrainstormForce
 
