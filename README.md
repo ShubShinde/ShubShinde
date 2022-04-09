@@ -5,8 +5,8 @@
 - 🌱 Exploring React.js, ReactNative, Headless CMS, Gatsby, GraphQL & D3.js.
 - 📫 Reach me {email : 'heyimshub@gmail.com' , mobile: '7447851524' }
 - ⭐ Wordpress Profile - https://profiles.wordpress.org/shubshinde/
-- 🌃 Wordpress Developer at Brainstorm Force
-- 💻 Astra Theme Developer
+- 🌃 Software Developer at Codebase
+- 💻 Prev: Astra Theme Developer at Brainstorm Force
 - 🎧 Desi Rap Songs
 - 🌀 Naruto Fan
 
