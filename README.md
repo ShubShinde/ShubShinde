@@ -9,6 +9,7 @@
 - 💻 Prev: Astra Theme Developer at Brainstorm Force
 - 🎧 Desi Rap Songs
 - 🌀 Naruto Fan
+- Resume/Portfolio - https://shubshinde.netlify.app/
 
 <br>
 
