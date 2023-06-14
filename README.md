@@ -1,15 +1,12 @@
 
 - 👋 Hi, Shubham here.
+- 🌃 Fullstack Engineer @ Aleia (Canada)
+- 💻 Ex: Engineer @ Codebase & Astra WpTheme
 - 👀 I’m interested in Wordpress & React.js
-- 💞️ I love to create awesome WordPress Plugins & React Apps.
-- 🌱 Exploring React.js, ReactNative, Headless CMS, Gatsby, GraphQL & D3.js.
+- 🌱 Love to explore React.js, ReactNative, Headless CMS, Gatsby, GraphQL & D3.js.
 - 📫 Reach me {email : 'heyimshub@gmail.com' , mobile: '7447851524' }
 - ⭐ Wordpress Profile - https://profiles.wordpress.org/shubshinde/
-- 🌃 Software Developer at Codebase
-- 💻 Prev: Astra Theme Developer at Brainstorm Force
-- 🎧 Desi Rap Songs
-- 🌀 Naruto Fan
-- Resume/Portfolio - https://shubshinde.netlify.app/
+- ⭐ Resume/Portfolio - https://shub.vercel.app/
 
 <br>
 
