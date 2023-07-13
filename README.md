@@ -1,12 +1,9 @@
 
 - 👋 Hi, Shubham here.
-- 🌃 Fullstack Engineer @ Aleia (Canada)
-- 💻 Ex: Engineer @ Codebase & Astra WpTheme
+- 🌃 Fullstack Engineer @ Aleia
 - 👀 I’m interested in Wordpress & React.js
 - 🌱 Love to explore React.js, ReactNative, Headless CMS, Gatsby, GraphQL & D3.js.
-- 📫 Reach me {email : 'heyimshub@gmail.com' , mobile: '7447851524' }
 - ⭐ Wordpress Profile - https://profiles.wordpress.org/shubshinde/
-- ⭐ Resume/Portfolio - https://shub.vercel.app/
 
 <br>
 
