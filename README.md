@@ -1,6 +1,6 @@
 
 - 👋 Hi, Shubham here.
-- 🌃 Fullstack Engineer @ Aleia
+- 🌃 Fullstack Engineer @ Uplers
 - 👀 I’m interested in Wordpress & React.js
 - 🌱 Love to explore React.js, ReactNative, Headless CMS, Gatsby, GraphQL & D3.js.
 - ⭐ Wordpress Profile - https://profiles.wordpress.org/shubshinde/
