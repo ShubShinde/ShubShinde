@@ -2,7 +2,7 @@
 - 👋 Hi, Shubham here.
 - 🌃 Fullstack Engineer @ Uplers
 - 👀 I’m interested in Wordpress & React.js
-- 🌱 Love to explore React.js, ReactNative, Headless CMS, Gatsby, GraphQL & D3.js.
+- 🌱 Loves to explore React.js, ReactNative, Headless CMS, Gatsby, GraphQL & D3.js.
 - ⭐ Wordpress Profile - https://profiles.wordpress.org/shubshinde/
 
 <br>
